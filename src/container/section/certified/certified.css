@@ -1,0 +1,25 @@
+.certified-container {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  /* background-color: yellow; */
+  padding: 20px;
+}
+
+.fontstyle {
+  text-transform: uppercase;
+  font-weight: 500;
+  color: brown;
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.certified-content {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.certified-content > strong {
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

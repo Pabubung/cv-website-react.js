@@ -1,0 +1,18 @@
+
+.container-experience {
+    /* background-color: moccasin; */
+    /* background-color: #f4f4f2; */
+    z-index: 1;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.row-experience{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    /* padding: 20px; */
+}
